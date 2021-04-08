@@ -1,10 +1,11 @@
 #include<stdio.h>
 
-void main() {
+int main() {
 	printf("hello");
 
 	printf("world");
 	
+	return 0;
 }
 
 //ver1.
